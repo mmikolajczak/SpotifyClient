@@ -7,4 +7,4 @@ key is required.
 - except requests (that can be installed using pip) the modules
 used comes with default python 3 instalation.
 
-Created as a task
+Created as a solution to task during STXNext workshops.
